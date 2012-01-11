@@ -1,0 +1,13 @@
+These objects are used to dynamically create interfaces on devices running Control from Max/MSP. In order to use, you'll need the zeroconf max externals:
+
+http://sourceforge.net/projects/osctools/files/
+
+NOTE: For this to be really useful you need the AutoGUI generator for Control which will be featured in an upcoming release. In the meantime you can contact the author if you'd like this file.
+
+To test:
+
+1. Make sure your device running Control is on the same wifi network as your laptop.
+2. Create a new max patch.
+3. Create a control_master object. You should see a blank interface appear on your device.
+4. Create a control_slider object. You should see a slider appear on your device
+5. Connect the control_slider object to the print object. When you move the slider, you should see the output appear in your Max window.
