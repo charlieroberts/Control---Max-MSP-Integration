@@ -2,6 +2,10 @@ These objects are used to dynamically create interfaces on devices running Contr
 
 http://sourceforge.net/projects/osctools/files/
 
+You'll also need the nothing object from CNMAT:
+
+http://cnmat.berkeley.edu/patch/2530
+
 NOTE: For this to be really useful you need the AutoGUI generator for Control which will be featured in an upcoming release. In the meantime you can contact the author if you'd like this file.
 
 To test:
