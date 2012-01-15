@@ -899,7 +899,7 @@
 				"box" : 				{
 					"maxclass" : "message",
 					"text" : "/control/addWidget \" {  'name': 'Slider2',  'type':'Slider',} \"",
-					"patching_rect" : [ 705.0, 375.0, 275.0, 14.0 ],
+					"patching_rect" : [ 765.0, 375.0, 275.0, 14.0 ],
 					"numinlets" : 2,
 					"fontsize" : 10.0,
 					"id" : "obj-32",
